@@ -1,0 +1,30 @@
+Jonas Damijonaitis 1996 70.5 1
+Zigmas Jankauskas 1997 100.7 2
+Simas Bickauskas 1997 80 3
+Petras Krikstopaitis 1993 74 4
+Edgaras Rusteika 1992 110 5
+
+Zigmas Zigmauskas 1997 100.7 7
+Simas Simauskas 1997 80 8
+Petras Petraukas 1993 74 9
+Edgaras Edgarauskas 1992 110 10
+Arvydas Arvydauskas 1989 65 11
+
+Zigmas Zigmauskas 1998 100.7 13
+Simas Simauskas 1999 80 14
+Petras Petraukas 2000 74 15
+Edgaras Edgarauskas 2001 110 16
+Arvydas Arvydauskas 2002 65 17
+
+Zigmas Zigmauskas 1997 72 19
+Simas Simauskas 1997 71 20
+Petras Petraukas 1993 70 21
+Edgaras Edgarauskas 1992 69 22
+Arvydas Arvydauskas 1989 68 23
+
+Mantas Damijonaitis 1996 80 24
+Lukas Jankauskas 1997 81 25
+Laurynas Bickauskas 1997 82 26
+Audrius Krikstopaitis 1993 83 27
+Jonas Jonauskas 1996 73 28
+
